@@ -1,3 +1,4 @@
+
 == Introduction ==
 
 Neural networks and deep learning are two success stories in modern artificial intelligence. 
@@ -24,3 +25,4 @@ explanation of the intuition behind neural networks.
 
 MNIST – MNIST is a modified subset of two datasets collected by the U.S. National Institute of
 Standards and Technology. It contains 70,000 labeled images of handwritten digits.
+
